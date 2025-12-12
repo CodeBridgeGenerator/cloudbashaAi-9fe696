@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "string file upload",
+        "featureName": "Idea-to-App Generation",
+        "description": "Transform your written ideas into complete app structures with frontend, backend, and database logic."
+    },
+    {
+        "icon": "string file upload",
+        "featureName": "Instant Development Insights",
+        "description": "No complicated setup — just type your app idea and start generating."
+    },
+    {
+        "icon": "string file upload",
+        "featureName": "Customizable Code",
+        "description": "Get editable, ready-to-use code you can refine, modify, and deploy immediately."
+    },
+    {
+        "icon": "string file upload",
+        "featureName": "Ready-to-Launch App",
+        "description": "Build a fully structured, production-ready app with backend, frontend, and database logic automatically. Deploy immediately."
+    }
+]

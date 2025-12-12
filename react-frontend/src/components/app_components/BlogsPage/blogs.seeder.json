@@ -1,0 +1,16 @@
+[
+    {
+        "title": "FMCG",
+        "postedOn": 45995,
+        "description": "A leading FMCG company in Malaysia, specializing in beverage and dairy products with a strong presence across Southeast Asia.",
+        "image1": "https://images.unsplash.com/photo-1764675902777-6c0c0ac16f61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiZXZlcmFnZSUyMG1hbnVmYWN0dXJpbmclMjBmYWN0b3J5fGVufDF8fHx8MTc2NTI0NjY3OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "image2": "https://images.pexels.com/photos/6366898/pexels-photo-6366898.jpeg"
+    },
+    {
+        "title": "Media & Publishing",
+        "postedOn": 45995,
+        "description": "A diverse Malaysian media company providing news, entertainment, and events across multiple platforms.",
+        "image1": "https://images.pexels.com/photos/6366898/pexels-photo-6366898.jpeg",
+        "image2": "https://thumbs.wbm.im/pw/medium/d9343af3b000a61b936500f9f7530ebf.jpg"
+    }
+]
