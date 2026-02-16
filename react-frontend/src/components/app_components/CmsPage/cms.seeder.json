@@ -1,0 +1,208 @@
+[
+    {
+        "name": "features",
+        "path": "/features",
+        "image1": "file upload",
+        "image2": "file upload",
+        "category": "Core Infrastructure",
+        "headerContent": "Database management",
+        "bodyContent": "Basha Ai understands the kind of data management your app needs and sets up the infrastructure behind the scenes.",
+        "disclaimer": "This content is for informational purposes only and may include opinions. It should not be taken as professional advice.",
+        "visible": "YES"
+    },
+    {
+        "name": "features",
+        "path": "/features",
+        "category": "Core Infrastructure",
+        "headerContent": "Storage",
+        "bodyContent": "If your app needs to handle files, Cloud Basha Ai makes it easy. Users can seamlessly upload and retrieve files like images and documents, with all the storage handled for you.",
+        "visible": "YES"
+    },
+    {
+        "name": "features",
+        "path": "/features",
+        "category": "Core Infrastructure",
+        "headerContent": "Email System",
+        "bodyContent": "Built-in email capabilities let your app send notifications, onboarding sequences, or marketing updates directly—without extra setup. ",
+        "visible": "YES"
+    },
+    {
+        "name": "features",
+        "path": "/features",
+        "category": "Core Infrastructure",
+        "headerContent": "Payment processing",
+        "bodyContent": "Add checkout flows or subscription plans in seconds. Basha AI integrates with Stripe for secure, one-click payment processing.",
+        "visible": "YES"
+    },
+    {
+        "name": "features",
+        "path": "/features",
+        "category": "Core Infrastructure",
+        "headerContent": "Auto-generated API points",
+        "bodyContent": "Basha Ai automatically creates secure connections (APIs) for every part of your app's data and functionality, enabling your app to communicate effortlessly with other services.",
+        "visible": "YES"
+    },
+    {
+        "name": "integrations",
+        "path": "/integrations",
+        "category": "Connectors",
+        "headerContent": "Code Bridge",
+        "visible": "YES"
+    },
+    {
+        "name": "integrations",
+        "path": "/integrations",
+        "category": "Connectors",
+        "headerContent": "Google Drive",
+        "visible": "YES"
+    },
+    {
+        "name": "integrations",
+        "path": "/integrations",
+        "category": "Connectors",
+        "headerContent": "Google Doc",
+        "visible": "YES"
+    },
+    {
+        "name": "integrations",
+        "path": "/integrations",
+        "category": "Connectors",
+        "headerContent": "Google Sheet",
+        "visible": "YES"
+    },
+    {
+        "name": "integrations",
+        "path": "/integrations",
+        "category": "Manual Integration",
+        "headerContent": "Gemini AI",
+        "visible": "YES"
+    },
+    {
+        "category": "Enterprise Solution",
+        "headerContent": "Ideas shouldn't wait for sprints.",
+        "bodyContent": "Cloud Basha lets companies of any size build secure, scalable apps at maximum velocity."
+    },
+    {
+        "name": "enterprise",
+        "path": "/enterprise",
+        "category": "Enterprise Solution",
+        "headerContent": "Scale you Business Impact",
+        "bodyContent": "Turn your experts into builders",
+        "bodyList": "Let non-technical teams solve their own workflow challenges or rapidly test new business models using natural language to create the exact tools they envision.",
+        "visible": "YES"
+    },
+    {
+        "name": "enterprise",
+        "path": "/enterprise",
+        "category": "Enterprise Solution",
+        "headerContent": "Scale you Business Impact",
+        "bodyContent": "Accelerate your core roadmap",
+        "bodyList": "Free your senior devs from building internal tools and boilerplate APIs—and let them focus their talent on mission-critical code that drives your competitive advantage.",
+        "visible": "YES"
+    },
+    {
+        "name": "enterprise",
+        "path": "/enterprise",
+        "category": "Enterprise Solution",
+        "headerContent": "Uncompromising security",
+        "bodyContent": "Enterprise SSO:",
+        "bodyList": "Integrate seamlessly with your identity provider using SAML, OAuth, and more.",
+        "visible": "YES"
+    },
+    {
+        "name": "enterprise",
+        "path": "/enterprise",
+        "category": "Enterprise Solution",
+        "bodyContent": "Secure hosting:",
+        "bodyList": "All applications are hosted on private, protected, and continuously monitored infrastructure.",
+        "visible": "YES"
+    },
+    {
+        "name": "enterprise",
+        "path": "/enterprise",
+        "category": "Enterprise Solution",
+        "bodyContent": "Granular permissions:",
+        "bodyList": "Define user and group roles to control who can view, edit, and manage applications.",
+        "visible": "YES"
+    },
+    {
+        "category": "Enterprise Solution",
+        "visible": "YES"
+    },
+    {
+        "category": "Enterprise Solution",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/productivity",
+        "category": "productivity",
+        "headerContent": "Turn words into apps",
+        "bodyContent": "Turning your productivity ideas into a real app using natural language. No code, No limits.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/productivity",
+        "category": "productivity",
+        "headerContent": "Launch in seconds",
+        "bodyContent": "Your productivity app is hosted and ready to go live the moment it's built. Share it instantly or connect your own domain.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/productivity",
+        "category": "productivity",
+        "headerContent": "Backend built-in",
+        "bodyContent": "We handle the heavy lifting—auth, databases, and storage are included. Your productivity apps won't just look good; they'll have the backend power to run your operations at scale.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/ecommerce-retail",
+        "category": "ecommerce-retail",
+        "headerContent": "Turn words into apps",
+        "bodyContent": "Turning your e-commerce and retail ideas into a real app using natural language. No code, No limits.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/ecommerce-retail",
+        "category": "ecommerce-retail",
+        "headerContent": "Launch in seconds",
+        "bodyContent": "Your e-commerce and retail app is hosted and ready to go live the moment it's built. Share it instantly or connect your own domain.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/ecommerce-retail",
+        "category": "ecommerce-retail",
+        "headerContent": "Backend built-in",
+        "bodyContent": "We handle the heavy lifting—auth, databases, and storage are included. Your e-commerce and retail apps won't just look good; they'll have the backend power to run your operations at scale.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/finance",
+        "category": "finance",
+        "headerContent": "Turn words into apps",
+        "bodyContent": "Turning your financial ideas into a real app using natural language. No code, No limits.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/finance",
+        "category": "finance",
+        "headerContent": "Launch in seconds",
+        "bodyContent": "Your financial app is hosted and ready to go live the moment it's built. Share it instantly or connect your own domain.",
+        "visible": "YES"
+    },
+    {
+        "name": "use-cases",
+        "path": "use-cases/finance",
+        "category": "finance",
+        "headerContent": "Backend built-in",
+        "bodyContent": "We handle the heavy lifting—auth, databases, and storage are included. Your financial apps won't just look good; they'll have the backend power to run your operations at scale.",
+        "visible": "YES"
+    }
+]

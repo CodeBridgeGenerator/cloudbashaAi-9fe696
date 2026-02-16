@@ -1,0 +1,30 @@
+[
+    {
+        "questions": "1. What type of apps can I generate?",
+        "answers": "You can generate mobile apps, web apps, dashboards, internal tools, management systems, and API-based applications. Both simple and complex use cases are supported."
+    },
+    {
+        "questions": "2. Do I need technical knowledge to use this?",
+        "answers": "Not at all. Just describe what you want in plain English, the AI handles the technical interpretation and generates a ready-to-build specification."
+    },
+    {
+        "questions": "3. Can I edit the generated app?",
+        "answers": "Yes! CloudBasha AI generates fully functional app code based on your prompt. Once the code is ready, you can view, modify, and customize it to suit your needs — whether it’s changing the UI, adding new features, or integrating with other systems."
+    },
+    {
+        "questions": "4. What if I want a custom consultation?",
+        "answers": "You can reach Cloud Basha via the contact form on the website or by emailing info@cloudbasha.com for customized apps."
+    },
+    {
+        "questions": "5. Will the AI generate full code for my app?",
+        "answers": "Yes, based on your plan, the system can generate full backend code, frontend UI components, and database schema."
+    },
+    {
+        "questions": "6. What stack does the backend and frontend use?",
+        "answers": "The backend and frontend are based on MERN Stack. MongoDB Express, React Nodejs."
+    },
+    {
+        "questions": "7. What happens after the code is generated?",
+        "answers": "Once the code is generated, you can push it directly to your GitHub repository using the provided integration. This ensures seamless version control and collaboration, making it easy for your team to work together on the project."
+    }
+]

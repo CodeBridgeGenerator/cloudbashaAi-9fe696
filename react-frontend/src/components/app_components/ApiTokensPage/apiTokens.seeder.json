@@ -1,0 +1,13 @@
+[
+    {
+        "company": "Cloud Basha AI",
+        "apiKey": "API_1234",
+        "apiSecret": "a8fh28fhs8fh2h8fh2h8fh2h",
+        "accessToken": "eyJhbGciOi",
+        "createdDate": 46003,
+        "expiryDate": 46055,
+        "status": "Active",
+        "environment": "Production",
+        "notes": "Used for domain automation"
+    }
+]

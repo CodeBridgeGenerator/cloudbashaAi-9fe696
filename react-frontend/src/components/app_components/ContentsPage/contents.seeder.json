@@ -1,0 +1,17 @@
+[
+    {
+        "step": 1,
+        "title": "Share your idea",
+        "description": "Tell the platform what you want to build."
+    },
+    {
+        "step": 2,
+        "title": "Answer quick questions",
+        "description": "Answer a few quick questions to customize your app "
+    },
+    {
+        "step": 3,
+        "title": "Get your tailored app",
+        "description": "Get a complete backend and frontend — ready for deployment app in seconds."
+    }
+]
